@@ -4,3 +4,5 @@ User-agent: *
 Disallow: /Galerija/
 User-agent: *
 Disallow: /script.js
+
+sitemap:https://https://echeese123.github.io/BranislavZabunovVD2026/sitemap.xml
