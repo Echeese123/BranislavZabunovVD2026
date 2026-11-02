@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /slike/
+User-agent: *
+Disallow: /Galerija/
+User-agent: *
+Disallow: /script.js
